@@ -1,0 +1,43 @@
+header {
+    background: #5398BE;
+}
+
+nav {
+    background: #5398BE;
+}
+
+.btn-get-started {
+    background-color: #FFD700;
+    color: #333333;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.btn-get-started:hover {
+    background-color: rgba(255, 215, 0, 0.8); /* Un poco más opaco */
+    color: #000000;
+}
+
+.btn-learn-more {
+    background-color: #cccccc;
+    color: #ffffff;
+    transition: background 0.3s ease, color 0.3s ease;
+    cursor: pointer;
+}
+
+.btn-learn-more:hover {
+    background-color: rgba(255, 99, 71, 0.8); /* Un poco más opaco */
+    color: #f0f0f0;
+}
+
+
+
+.button-p {
+    background: #5398BE;
+    color: #ffffff;
+    transition: background 0.3s ease;
+    cursor: pointer;
+}
+
+.button-p:hover {
+    background: rgba(83, 152, 190, 0.8);
+}
